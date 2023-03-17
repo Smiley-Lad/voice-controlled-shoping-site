@@ -1,0 +1,9 @@
+.cartItem_image{
+    height: 15rem;
+    object-fit: contain;
+    transition: all 1s linear;
+}
+img{
+    height:15rem;
+    object-fit: contain;
+}
